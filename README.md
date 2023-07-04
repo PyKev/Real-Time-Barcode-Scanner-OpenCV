@@ -23,7 +23,7 @@ This project consists of a Python program that allows you to scan barcodes in re
 
 2. Open the "IP Webcam" application and configure the video streaming options. Make sure to note down the IP address and port displayed on the screen.
 
-3. Run the Python program using the following command:
+3. Run the Python program
 
 4. A window with a graphical user interface will appear. Follow these steps:
 
